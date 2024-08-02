@@ -122,7 +122,7 @@ model-viewer > #ar-prompt > img {
   position: fixed;
   left: 0;
   right: 0;
-  bottom: 6rem;
+  bottom: 8rem;
   text-align: center;
   font-size: xx-large;
 }
